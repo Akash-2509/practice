@@ -3,3 +3,7 @@ the file is modified....
 im akash
 
 line to be deleted from cmder
+
+here is added square
+
+it is the cube
